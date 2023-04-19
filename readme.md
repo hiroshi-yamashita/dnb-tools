@@ -27,8 +27,8 @@ PyYAML
 
 You can try the analysis on Google Colaboratory. Please refer to these notebooks for detailed usage.
 
-- **DNB tool for tabular data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hiroshi_yamashita/dnb-tools/blob/master/tutorial_dnb_tabulars.ipynb)
-- **DNB tool for timeseries data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hiroshi_yamashita/dnb-tools/blob/master/tutorial_dnb_timeseries.ipynb)
+- **DNB tool for tabular data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hiroshi-yamashita/dnb-tools/blob/master/tutorial_dnb_tabular.ipynb)
+- **DNB tool for timeseries data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hiroshi-yamashita/dnb-tools/blob/master/tutorial_dnb_timeseries.ipynb)
 
 If you have python environment, you can use the program by cloning the project by
 
