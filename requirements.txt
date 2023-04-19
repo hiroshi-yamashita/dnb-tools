@@ -1,0 +1,8 @@
+numpy
+pandas
+ruptures>=1.1.7
+scikit-learn
+scipy
+tqdm
+matplotlib
+PyYAML

@@ -1,0 +1,18 @@
+{
+    "input_path": "input",
+    "prefix": "sample_data",
+    "key_control": "ctrl",
+    "key_experimental": "expr",
+    "ignore_extra_columns": false,
+    "output_filename": "output.csv",
+    "deviation_metric": "mad",
+    "thres_gene_filtering": 2,
+    "linkage_metric": "spearman",
+    "linkage_method": "average",
+    "linkage_threshold": 0.75,
+    "thres_cluster_selection": 0.5,
+    "output_metrics": true,
+    "plot_correlation": true,
+    "plot_heatmap": true,
+    "plot_file_prefix": null
+}
