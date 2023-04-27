@@ -64,7 +64,11 @@ The sample data in `datasets/data/` is from the following:
 
 ## License
 
-Apache License 2.0
+This software is licensed under the Apache License Version 2.0.
+However, the patent rights of DNB are held by the Japan Science and Technology Agency. For business use, please contact the following address.
+Licensing Manager, Department of Intellectual Property Management, JST
+phone: +81-3-5214-8486
+e-mail: license@jst.go.jp
 
 ## Author
 
